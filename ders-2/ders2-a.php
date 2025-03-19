@@ -117,7 +117,6 @@
       $sonuc = $sayi1--;
       $sonuc = $sayi1--;
       $sonuc = $sayi1--;
-      $sonuc = $sayi1;
       echo $sonuc;
       echo "<br>işlemin sonucu: $sonuc";
     ?>
