@@ -19,7 +19,7 @@
 
     <?php
     
-    $kullanici_adi = $_POST["username"];
+    $kullanici_adi = $_REQUEST["username"];
     $kullanici_sifre = $_POST["password"];
     
     echo "Formdan Kullanıcı Adı: $kullanici_adi <br>";
